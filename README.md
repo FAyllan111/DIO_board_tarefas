@@ -12,7 +12,7 @@ Esse desafio reforçou a importância da estruturação de projetos, do gerencia
 - **Java 17+**  
 - **Estruturas de dados e manipulação de listas**  
 - **Organização de código seguindo boas práticas**  
-
+#
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ayllan-silva]  
 🐙 **GitHub:** [https://github.com/FAyllan111)
  
