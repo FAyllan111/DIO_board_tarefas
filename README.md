@@ -1,4 +1,4 @@
-### **Projeto 4 - Criando seu Board de Tarefas com Java**  
+### **Projeto - Criando seu Board de Tarefas com Java**  
 
 # 📋 Criando seu Board de Tarefas com Java  
 
